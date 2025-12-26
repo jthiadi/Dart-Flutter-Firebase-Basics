@@ -1,0 +1,2 @@
+C:/Users/User/Documents/SoftwareStudio/lab2/lab-flutter-basics-dart-quiz-app/android/app/.cxx/Debug/3n246u3t/x86/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/SoftwareStudio/lab2/lab-flutter-basics-dart-quiz-app/android/app/.cxx/Debug/3n246u3t/x86/CMakeFiles/rebuild_cache.dir
