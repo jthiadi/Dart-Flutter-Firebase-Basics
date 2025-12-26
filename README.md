@@ -1,6 +1,11 @@
 # Dart-Flutter-Firebase-Basics
 This repository contains a collection of mobile application projects developed using Flutter and Dart. Each project focuses on specific aspects of mobile engineering, ranging from fundamental UI layouts to advanced animations and cloud backend integration.
 
+These are the lab projects completed in the **Software Studio course (Year 113)** under **Professor Wu Shan-Hung**.
+
+📌 **Final Result:**  **100 / 100** for all labs.
+
+
 ## 1️⃣ Dice Rolling App
 A simple dice-rolling game where the user gets 5 rolls to reach or exceed a target score.
 
